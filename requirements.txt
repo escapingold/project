@@ -1,6 +1,6 @@
-flask==2.2.2
-requests==2.28.1
-pymongo==4.3.3
-python-telegram-bot==20.0
-colorama==0.4.6
-werkzeug==2.0.3
+flask
+requests
+pymongo
+python-telegram-bot
+colorama
+werkzeug
